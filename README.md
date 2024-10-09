@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @newb-sayonara
 - 👀 I’m interested in challenge
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on the futyre?
-- 📫 How to reach me email
+- 📫 How to reach me: email christianjayudtojan@gmail.com
 - 😄 Pronouns: he,him,fugi
 - ⚡ Fun fact: fugiako
 
